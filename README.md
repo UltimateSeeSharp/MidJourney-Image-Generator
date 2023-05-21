@@ -25,4 +25,5 @@ MidJourney Image Generator Bot
 
 ### Warnings
 
-If you start a bot you have to close it again! It could run in background (You can you Force Stop for all processes to close)
+If you start a bot you have to close it again! 
+It could be running in the background (You can use force stop for all processes to close)
