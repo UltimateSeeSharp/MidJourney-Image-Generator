@@ -1,6 +1,12 @@
 MidJourney Image Generator Bot
 ==
 
+Requirements
+-------------
+
+- Python3
+- GPU / iGPU (min 2 cores)
+
 Installation
 -------------
 
