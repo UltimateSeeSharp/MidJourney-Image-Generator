@@ -1,7 +1,8 @@
 MidJourney Image Generator Bot
 ==
 
-###Installation
+Installation
+-------------
 
 - Download latest release
 
@@ -13,7 +14,9 @@ MidJourney Image Generator Bot
 
 - Start the bot
 
-###Getting started
+Getting started
+-------------
+
 - Enter prompt and folder path in `appsettings.json`
 
 - Start `MidJourneyBot.exe`
@@ -23,7 +26,8 @@ MidJourney Image Generator Bot
 
 - Click `Start Upscaler`
 
-### Warnings
+Warnings
+-------------
 
 If you start a bot you have to close it again! 
 It could be running in the background (You can use force stop for all processes to close)
