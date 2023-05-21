@@ -42,4 +42,4 @@ Licence
 -------------
 
 Copies of this software and code are not allowed!
-Do not replicate or copy this application!
+Only for granted access!
