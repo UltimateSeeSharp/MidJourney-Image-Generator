@@ -31,3 +31,9 @@ Warnings
 
 If you start a bot you have to close it again! 
 It could be running in the background (You can use force stop for all processes to close)
+
+Licence
+-------------
+
+Copies of this software and code are not allowed!
+Do not replicate or copy this application!
