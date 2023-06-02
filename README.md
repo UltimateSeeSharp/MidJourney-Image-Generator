@@ -4,34 +4,38 @@ MidJourney Image Generator Bot
 Requirements
 -------------
 
-- npm (Node Package Manager)
-- Python3
+- pip package installer
 - GPU / iGPU (min 2 cores)
+- Python3
 
-Installation
+Installatiom
 -------------
 
 - Download latest release
-- Start the bot
-- Select your user
-
+- Start `MidJourneyBot.eye`
+- Select your user to create config file and python bot file
+- Install python bot libraries if needed (shown in error messages when started)
 
 Getting started
 -------------
 
-- Enter prompt in `appsettings.json` or directly in the app
-- Start `MidJourneyBot.exe`
+- Start `MidJourneyBot.eye`
+- Enter prompt in `appsettings.json` or click `Change prompt` in the menu
 - Click `Start MidJourney Bot`
-- Wait for auto login (Restart maybe required if auto login fails or captcha was solved)
+- Wait for auto login (Restart maybe required if auto login fails or captcha is requested)
+- Bot is working now
+
+Optional:
+
 - Click `Start Upscaler`
-- Images are now downloaded to folder in specified in `appsettings.json`.
-- Upscaled images are written in `upscaled` folder.
+- Wait for images to be downloaded to folder specified in `appsettings.json`
+- New Images in folder are now beeing upscaled into subdirectory `upscaled`
 
 Warnings
 -------------
 
 If you start a bot, you also have to close it again! 
-Use `force all stop` to kill all windows
+Use `Stop all` to kill all windows
 
 Licence
 -------------
